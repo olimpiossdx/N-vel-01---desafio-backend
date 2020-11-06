@@ -1,5 +1,5 @@
 <h1>
-  🚀 Desafio Gostack
+   Desafio Gostack
 </h4>
 
 <img alt='' title='BootCamp' src='.github/bootcamp.png' />
